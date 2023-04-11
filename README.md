@@ -1,3 +1,2 @@
 # hardware-design
-Heartwood CAD models
-This repository (in construction) contains 3D model files for Heartwood.
+This repository (in construction) contains 3D CAD model files for Heartwood.
